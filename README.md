@@ -1,7 +1,7 @@
 # Projeto para o Desafio Técnico - Cientista de Dados Júnior
 
 <b>OBS.: Após inumeras tentativas para instalar a biblioteca `basedosdados`, não foi possível. 
-Para contornar esse imprevisto foi utilizado a autenticação por credenciais fornecidas por arquivo JSON pelo Google Cloud - GCP. No indíce <a href="#iniciando-o-projeto">Gerando credenciais do Google Cloud - GCP</a> detalha como criar e inserir no Notebook Python para acesso ao GCP.</b>
+Para contornar esse imprevisto foi utilizado a autenticação por credenciais fornecidas por arquivo JSON pelo Google Cloud - GCP. No indíce <a href="#gerando-as-credenciais-do-google-cloud">Gerando as Credenciais do Google Cloud</a> detalha como criar e inserir no Notebook Python para acesso ao GCP.</b>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -38,10 +38,10 @@ Foi realizado consultas com SQL, Python e criação de <i>Dashboards</i>.
   * [pandas](https://pandas.pydata.org/)
   * [os](https://www.w3schools.com/python/module_os.asp)
   * [seaborn](https://seaborn.pydata.org/)
-  * [satplotlib](https://matplotlib.org/)
+  * [matplotlib](https://matplotlib.org/)
   * [Docker](https://www.docker.com/)
   * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-  * [Power bi](https://www.docker.com/)
+  * [Power BI](https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_CjwKCAiAlcyuBhBnEiwAOGZ2S-k76RCXAYzzEqjiEgV_YZV48Jq3MUpNIPobr1GC5PSdxyCXfY4LBRoC1DgQAvD_BwE_k_&OCID=AIDcmmk4cy2ahx_SEM__k_CjwKCAiAlcyuBhBnEiwAOGZ2S-k76RCXAYzzEqjiEgV_YZV48Jq3MUpNIPobr1GC5PSdxyCXfY4LBRoC1DgQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2S-k76RCXAYzzEqjiEgV_YZV48Jq3MUpNIPobr1GC5PSdxyCXfY4LBRoC1DgQAvD_BwE)
   * [Apache Superset](https://superset.apache.org/)
   * [Google Cloud](https://cloud.google.com)
   * [Google BigQuery](https://cloud.google.com/bigquery/)
@@ -110,6 +110,6 @@ df_query_chamado_1746   = client.query(query_chamado_1746).to_dataframe()
 ## Sobre
 
 <img src="./img/person.png" width='30px'> 
-Autor: `Thiago Vilarinho Lemes`<br>
-<img src="./img/likedin.png" width='30px'> LinkedIn: [`Thiago Vilarinho Lemes`](https://www.linkedin.com/in/thiago-v-lemes-b1232727/)<br>
-<img src="./img/email.png" width='20px'> email:  `contatothiagolemes@gmail.com` | lemes_vilarinho@yahoo.com.br`
+Thiago Vilarinho Lemes<br>
+<img src="./img/likedin.png" width='30px'> <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727">Thiago Lemes</a><br>
+<img src="./img/email.png" width='20px'> contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br`
