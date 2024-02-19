@@ -58,7 +58,7 @@ Em seguida irá mostrar a seguinte tela, cick no menu <b>`CRIAR CREDENCIAIS`</b>
 Na tela seguinte irá aparecer um formulário para preenchimento com os dados da conta, em seguida no item 2(é opcional) será solicitado as permissões de acesso ao GCP, o item 3(é opcional) é para adicionar os usuários a essas credenciais, após concluir as etapas click em <b>`Concluir`</b>:
 <img src="./img/key_json_04.png">
 
-Após criar a credencial será possível verificar a mesma em <b>`Conta de Serviço`</b>:
+Após criar a credencial será possível verificar a mesma em <b>`Contas de Serviço`</b>:
 <img src="./img/key_json_05.png">
 
 Para gerar o arquivo <i>JSON</i>, click na credencial criada, em seguida no menu <b>`CHAVES`</b>:
@@ -109,7 +109,6 @@ df_query_chamado_1746   = client.query(query_chamado_1746).to_dataframe()
   <!-- sobre -->
 ## Sobre
 
-<img src="./img/person.png" width='30px'> 
-Thiago Vilarinho Lemes<br>
-<img src="./img/likedin.png" width='30px'> <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727">Thiago Lemes</a><br>
-<img src="./img/email.png" width='20px'> contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br`
+Autor: Thiago Vilarinho Lemes <br>
+LinkedIn <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727">Thiago Lemes</a><br>
+e-mail: contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br`
