@@ -111,4 +111,4 @@ df_query_chamado_1746   = client.query(query_chamado_1746).to_dataframe()
 
 Autor: Thiago Vilarinho Lemes <br>
 LinkedIn <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727">Thiago Lemes</a><br>
-e-mail: contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br`
+e-mail: contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br

@@ -75,7 +75,6 @@ Em `SQL` no menu podemos criar consultas no banco de dados:
   <!-- sobre -->
 ## Sobre
 
-<img src="../img/person.png" width='30px'> 
-Autor: `Thiago Vilarinho Lemes`<br>
-<img src="../img/likedin.png" width='30px'> LinkedIn: [`Thiago Vilarinho Lemes`](https://www.linkedin.com/in/thiago-v-lemes-b1232727/)<br>
-<img src="../img/email.png" width='20px'> email:  `contatothiagolemes@gmail.com` | lemes_vilarinho@yahoo.com.br`
+Autor: Thiago Vilarinho Lemes <br>
+LinkedIn <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727">Thiago Lemes</a><br>
+e-mail: contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br
