@@ -1,0 +1,25 @@
+version: '3'
+
+# Rede
+networks:
+  net:
+    driver: bridge
+
+services:
+
+  superset:
+    image: lemesvilarinho/superset:2.0
+    hostname: superset
+    container_name: superset
+    environment:
+      - ADMIN_USERNAME=admin
+      - ADMIN_EMAIL=admin@superset.com
+      - ADMIN_PASSWORD=admin
+    ports:
+      - '8088:8088'
+    networks:
+      - net
+    volumes: 
+      - ./superset/app/requirements:/app/requirements
+      - ./superset_frontend:/app/superset-frontend
+      - ./superset_home:/app/superset_home
