@@ -1,13 +1,13 @@
 {
-  "type": "service_account",
-  "project_id": "projeto-desafio-dados-rio",
-  "private_key_id": "e1d47968084933f7f6709a9e7c2a756a28975edb",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCg5jA4Lb/7tcmD\nl5IVHfXvSrRWMyT/HzmFAjZ1Bi5A+c/zjmvEYOSoaS4OnbH1Y18whR29aTT2/lBz\nCJTDNOaQaWvSXW68SACu7a1USonkwOHSkLxLllPkJVMZg/uNymbJ1ADrZZZ2u9zX\nH4EpSpl/0csKFTp4YXbp8TFjGL92z6xRA4GGjOAQkJteIvhvYuTsZ5AktVsk3QUu\n6pndvC7ss2Hg1WoI9Ny3EXyvso9PNViQNiaoa/0xq0SNmvbzNldF1L1B5NVFhSin\nEWfQ20mhvkraJP01lbyzTEsSLa5FxKCJTX+Cv2BIUoNLDwnAVYPwAHdLaoY93IDa\nul1dIUd9AgMBAAECggEAE7ibHOuoniDGOhGcJ2f0crfImk8q//UzDuU6SQYwqaik\n7zCb72ZD6It5yHNWMmJTcsZCIqrwQbzinfLljvafMwCk5VQr5Dp8EPTTW6NGOwpU\nM4OnfKlIj4xuntBBRzwRdLf+Q9wAAP4eP6TeJzI8VcEgXpRDBinGEj8Mo12PbC+u\n6IYwBTZMflgdKw0EYC6L8cD+qxVbWbzSCY8k6Qgr7Row1ySQ7l/RGXDy1k1g283S\nTSGs3KtAfQ/ToijVcXHSth8HXW2g/dqo+Wpyg7rCJIIZ24jZg2Bv9QJZpoMOAywf\nl8dvs+OfLsG411WGbzBhXXEYoTfkeeYUXkVUzui2SQKBgQDOCK51hTxcRa82RDDw\nSpJ23nRQQZjmY/z9H6rjqw4CyZQEXgYVDC35MHySa1hEUKnx7pSDN3Giq0MlJN5y\nKJhTX2SD0rN0DsORe1ynGQT6IeTy3al5KfMoyysMoO5CuI3RdGo8leaaf/EQ+CIk\n/x8AlNYzZ4mi8nC4T25/sPDLBQKBgQDH62G0pV5jL3caBwRZ5hTblJvfrbJvqs7Y\nVK/SXXJYvu3PWrBqioRIQ9p0GktC5s/acl6f/xSgAa0O6LvEOhSWvaVLqDk/AKMM\njUDUYEA/uz785hhypTtbjh7ZPrxnWHc3fUJwvDguAgkiCvPI5uN9wr4Isspr7xXS\nnqKCOSnkGQKBgQCUfklOxiJE1qx7ThZ/eR+qsJXgKgcLNdFmleZShDxq4eHea+2y\nSb7wtHN0DA3n3sM9bRh4ogMynICeSr5QRNXUcRI+uCNCaEmnluOmQzAFH1yldgDp\nJMTuB9AVH//Y8q6z4VWYKOm1PLT/5/aj94PepWbkUaEvYdC/5e/b9Cj4CQKBgQCJ\nurHfYCY8stCcz8TBom8wL5uLaAEMSWKjSwSuKs7CMRdoyRPM8ozbtFNltU+wUY9U\n8YIbPAKbkUwGf3QMZe8VQqYED2sQ6oFp/k5xgbYBsiBc3rBtG0RfePPruvrVP+8x\n/Uuumx0hJSnhmCYHfHmxhF6jY3ltDpO8PKm8iWFA0QKBgQCiYWtS/CyVbIdECmAw\n1+OwAkKBfUgh3DmjegiOIcl8aUDTbSYz+diWlXcawyUsxN6d0t4cqoSMic596BsA\nqB6VWtjDwGhkJ2adoAmTHYyVRLUMwefm5oFd2gprGD8aVPqoX1AVqpB0nrJBkMXV\n2743uUTfo0V2I7zQDC6TXUMO5w==\n-----END PRIVATE KEY-----\n",
-  "client_email": "key-only-read@projeto-desafio-dados-rio.iam.gserviceaccount.com",
-  "client_id": "114935057043005512275",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/key-only-read%40projeto-desafio-dados-rio.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
